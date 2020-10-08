@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688962585053",
+    "firebase_url": "https://android-chat-app-17218.firebaseio.com",
+    "project_id": "android-chat-app-17218",
+    "storage_bucket": "android-chat-app-17218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688962585053:android:2bb1f725e4af478884f634",
+        "android_client_info": {
+          "package_name": "com.peachgenz.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688962585053-ssasu635pv43tcmivqa6nemobg79bhqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-PIvbOdyRPRvGNp4xAbDop7RC631Sbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688962585053-ssasu635pv43tcmivqa6nemobg79bhqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
